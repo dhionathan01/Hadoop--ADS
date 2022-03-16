@@ -16,3 +16,7 @@ class QuantidadePalavras(MRJob, ABC):
 
 if __name__ == '__main__':
     QuantidadePalavras.run()
+"""
+Executar no terminal:
+python MapReduce.py texto_exemplo.txt > qtd.txt
+"""
