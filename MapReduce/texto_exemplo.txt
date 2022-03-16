@@ -1,0 +1,4 @@
+Este texto tem palavras repetidas
+mapreduce hadoop palavras
+palavras palavra hadoop texto python
+mrjob hadoop mapreduce hadoop mapreduce
